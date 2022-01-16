@@ -11,4 +11,4 @@ The goal is to pratice bit manipulation in coding in order to perform efficient 
 
 ## Credits
 
-Some of the problems solved here come from: [include Help](https://www.includehelp.com/c-programs/c-programs-bitwise-programs-and-solutions.aspx)
+Some of the problems solved here come from [here](https://www.includehelp.com/c-programs/c-programs-bitwise-programs-and-solutions.aspx).
